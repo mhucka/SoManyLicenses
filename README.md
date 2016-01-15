@@ -450,3 +450,8 @@ The original sources of data for this page were the [SPDX License List](https://
 | Zope Public License 1.1                                     | [SPDX](https://spdx.org/licenses/ZPL-1.1.html) | | | |
 | Zope Public License 2.0                                     | [SPDX](https://spdx.org/licenses/ZPL-2.0.html) | [OSI](https://opensource.org/licenses/ZPL-2.0) | | |
 | Zope Public License 2.1                                     | [SPDX](https://spdx.org/licenses/ZPL-2.1.html) | | | |
+
+
+### Licence and Disclaimers
+
+This work is licensed under the [Creative Commons Attribution 3.0](http://creativecommons.org/licenses/by/3.0/) license.  The contents of this repository are provided under an "as is" basis.  The authors and the California Institute of Technology disclaim any liability for the [SoManyLicenses](https://github.com/mhucka/SoManyLicenses/) project and the contents of this work.
