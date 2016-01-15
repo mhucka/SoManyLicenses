@@ -16,7 +16,7 @@ The original sources of data for this page were the [SPDX License List](https://
 #### A
 
 | Name                                                        | SPDX Page | OSI page | FSF/GNU page | Wikipedia |
-|-------------------------------------------------------------|-----------|----------|--------------|-----------|
+|-------------------------------------------------------------|:---------:|:--------:|:------------:|:---------:|
 | 3dfx Glide License                                          | [SPDX](https://spdx.org/licenses/Glide.html) | | | |
 | Abstyles License                                            | [SPDX](https://spdx.org/licenses/Abstyles.html) | | | |
 | Academic Free License v1.1                                  | [SPDX](https://spdx.org/licenses/AFL-1.1.html) | | | |
