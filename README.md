@@ -48,6 +48,11 @@ The original sources of data for this page were the [SPDX License List](https://
 | Artistic License 1.0 w/clause 8                             | [SPDX](https://spdx.org/licenses/Artistic-1.0-cl8.html) | | | |
 | Artistic License 2.0                                        | [SPDX](https://spdx.org/licenses/Artistic-2.0.html) | [OSI](https://opensource.org/licenses/Artistic-2.0) | | |
 | Attribution Assurance License                               | [SPDX](https://spdx.org/licenses/AAL.html) | [OSI](https://opensource.org/licenses/AAL) | | |
+
+#### B
+
+| Name                                                        | SPDX Page | OSI page | FSF/GNU page | Wikipedia |
+|-------------------------------------------------------------|:---------:|:--------:|:------------:|:---------:|
 | Bahyph License                                              | [SPDX](https://spdx.org/licenses/Bahyph.html) | | | |
 | Barr License                                                | [SPDX](https://spdx.org/licenses/Barr.html) | | | |
 | Beerware License                                            | [SPDX](https://spdx.org/licenses/Beerware.html) | | | |
@@ -67,6 +72,11 @@ The original sources of data for this page were the [SPDX License List](https://
 | BSD-4-Clause (University of California-Specific)            | [SPDX](https://spdx.org/licenses/BSD-4-Clause-UC.html) | | | |
 | bzip2 and libbzip2 License v1.0.5                           | [SPDX](https://spdx.org/licenses/bzip2-1.0.5.html) | | | |
 | bzip2 and libbzip2 License v1.0.6                           | [SPDX](https://spdx.org/licenses/bzip2-1.0.6.html) | | | |
+
+#### C
+
+| Name                                                        | SPDX Page | OSI page | FSF/GNU page | Wikipedia |
+|-------------------------------------------------------------|:---------:|:--------:|:------------:|:---------:|
 | Caldera License                                             | [SPDX](https://spdx.org/licenses/Caldera.html) | | | |
 | CeCILL Free Software License Agreement v1.0                 | [SPDX](https://spdx.org/licenses/CECILL-1.0.html) | | | |
 | CeCILL Free Software License Agreement v1.1                 | [SPDX](https://spdx.org/licenses/CECILL-1.1.html) | | | |
@@ -122,6 +132,11 @@ The original sources of data for this page were the [SPDX License List](https://
 | CUA Office Public License v1.0                              | [SPDX](https://spdx.org/licenses/CUA-OPL-1.0.html) | [OSI](https://opensource.org/licenses/CUA-OPL-1.0) | | |
 | Cube License                                                | [SPDX](https://spdx.org/licenses/Cube.html) | | | |
 | curl License                                                | [SPDX](https://spdx.org/licenses/curl.html) | | | |
+
+#### D
+
+| Name                                                        | SPDX Page | OSI page | FSF/GNU page | Wikipedia |
+|-------------------------------------------------------------|:---------:|:--------:|:------------:|:---------:|
 | Deutsche Freie Software Lizenz                              | [SPDX](https://spdx.org/licenses/D-FSL-1.0.html) | | | |
 | diffmark license                                            | [SPDX](https://spdx.org/licenses/diffmark.html) | | | |
 | Do What The F*ck You Want To Public License                 | [SPDX](https://spdx.org/licenses/WTFPL.html) | | | |
@@ -129,6 +144,11 @@ The original sources of data for this page were the [SPDX License List](https://
 | Dotseqn License                                             | [SPDX](https://spdx.org/licenses/Dotseqn.html) | | | |
 | DSDP License                                                | [SPDX](https://spdx.org/licenses/DSDP.html) | | | |
 | dvipdfm License                                             | [SPDX](https://spdx.org/licenses/dvipdfm.html) | | | |
+
+#### E
+
+| Name                                                        | SPDX Page | OSI page | FSF/GNU page | Wikipedia |
+|-------------------------------------------------------------|:---------:|:--------:|:------------:|:---------:|
 | Eclipse Public License 1.0                                  | [SPDX](https://spdx.org/licenses/EPL-1.0.html) | [OSI](https://opensource.org/licenses/EPL-1.0) | | |
 | eCos License Version 2.0                                    | | [OSI](https://opensource.org/licenses/eCos-2.0) | | |
 | Educational Community License v1.0                          | [SPDX](https://spdx.org/licenses/ECL-1.0.html) | | | |
@@ -144,6 +164,11 @@ The original sources of data for this page were the [SPDX License List](https://
 | European Union Public License 1.0                           | [SPDX](https://spdx.org/licenses/EUPL-1.0.html) | | | |
 | European Union Public License 1.1                           | [SPDX](https://spdx.org/licenses/EUPL-1.1.html) | [OSI](https://opensource.org/licenses/EUPL-1.1) | | |
 | Eurosym License                                             | [SPDX](https://spdx.org/licenses/Eurosym.html) | | | |
+
+#### F
+
+| Name                                                        | SPDX Page | OSI page | FSF/GNU page | Wikipedia |
+|-------------------------------------------------------------|:---------:|:--------:|:------------:|:---------:|
 | Fair License                                                | [SPDX](https://spdx.org/licenses/Fair.html) | [OSI](https://opensource.org/licenses/Fair) | | |
 | feh License                                                 | [SPDX](https://spdx.org/licenses/MIT-feh.html) | | | |
 | Frameworx Open License 1.0                                  | [SPDX](https://spdx.org/licenses/Frameworx-1.0.html) | [OSI](https://opensource.org/licenses/Frameworx-1.0) | | |
@@ -152,6 +177,11 @@ The original sources of data for this page were the [SPDX License List](https://
 | Freetype Project License                                    | [SPDX](https://spdx.org/licenses/FTL.html) | | | |
 | FSF Unlimited License                                       | [SPDX](https://spdx.org/licenses/FSFUL.html) | | | |
 | FSF Unlimited License (with License Retention)              | [SPDX](https://spdx.org/licenses/FSFULLR.html) | | | |
+
+#### G
+
+| Name                                                        | SPDX Page | OSI page | FSF/GNU page | Wikipedia |
+|-------------------------------------------------------------|:---------:|:--------:|:------------:|:---------:|
 | Giftware License                                            | [SPDX](https://spdx.org/licenses/Giftware.html) | | | |
 | GL2PS License                                               | [SPDX](https://spdx.org/licenses/GL2PS.html) | | | |
 | Glulxe License                                              | [SPDX](https://spdx.org/licenses/Glulxe.html) | | | |
@@ -167,8 +197,18 @@ The original sources of data for this page were the [SPDX License List](https://
 | GNU Library General Public License v2                       | [SPDX](https://spdx.org/licenses/LGPL-2.0.html) | | | |
 | gnuplot License                                             | [SPDX](https://spdx.org/licenses/gnuplot.html) | | | |
 | gSOAP Public License v1.3b                                  | [SPDX](https://spdx.org/licenses/gSOAP-1.3b.html) | | | |
+
+#### H
+
+| Name                                                        | SPDX Page | OSI page | FSF/GNU page | Wikipedia |
+|-------------------------------------------------------------|:---------:|:--------:|:------------:|:---------:|
 | Haskell Language Report License                             | [SPDX](https://spdx.org/licenses/HaskellReport.html) | | | |
 | Historic Permission Notice and Disclaimer                   | [SPDX](https://spdx.org/licenses/HPND.html) | [OSI](https://opensource.org/licenses/HPND) | | |
+
+#### I
+
+| Name                                                        | SPDX Page | OSI page | FSF/GNU page | Wikipedia |
+|-------------------------------------------------------------|:---------:|:--------:|:------------:|:---------:|
 | IBM PowerPC Initialization and Boot Software                | [SPDX](https://spdx.org/licenses/IBM-pibs.html) | | | |
 | IBM Public License v1.0                                     | [SPDX](https://spdx.org/licenses/IPL-1.0.html) | [OSI](https://opensource.org/licenses/IPL-1.0) | | |
 | ICU License                                                 | [SPDX](https://spdx.org/licenses/ICU.html) | | | |
@@ -182,8 +222,18 @@ The original sources of data for this page were the [SPDX License List](https://
 | Interbase Public License v1.0                               | [SPDX](https://spdx.org/licenses/Interbase-1.0.html) | | | |
 | IPA Font License                                            | [SPDX](https://spdx.org/licenses/IPA.html) | [OSI](https://opensource.org/licenses/IPA) | | |
 | ISC License                                                 | [SPDX](https://spdx.org/licenses/ISC.html) | [OSI](https://opensource.org/licenses/ISC) | | |
+
+#### J
+
+| Name                                                        | SPDX Page | OSI page | FSF/GNU page | Wikipedia |
+|-------------------------------------------------------------|:---------:|:--------:|:------------:|:---------:|
 | JasPer License                                              | [SPDX](https://spdx.org/licenses/JasPer-2.0.html) | | | |
 | JSON License                                                | [SPDX](https://spdx.org/licenses/JSON.html) | | | |
+
+#### L
+
+| Name                                                        | SPDX Page | OSI page | FSF/GNU page | Wikipedia |
+|-------------------------------------------------------------|:---------:|:--------:|:------------:|:---------:|
 | LaTeX Project Public License v1.0                           | [SPDX](https://spdx.org/licenses/LPPL-1.0.html) | | | |
 | LaTeX Project Public License v1.1                           | [SPDX](https://spdx.org/licenses/LPPL-1.1.html) | | | |
 | LaTeX Project Public License v1.2                           | [SPDX](https://spdx.org/licenses/LPPL-1.2.html) | | | |
@@ -197,6 +247,11 @@ The original sources of data for this page were the [SPDX License List](https://
 | libtiff License                                             | [SPDX](https://spdx.org/licenses/libtiff.html) | | | |
 | Lucent Public License v1.02                                 | [SPDX](https://spdx.org/licenses/LPL-1.02.html) | [OSI](https://opensource.org/licenses/LPL-1.02) | | |
 | Lucent Public License Version 1.0                           | [SPDX](https://spdx.org/licenses/LPL-1.0.html) | | | |
+
+#### M
+
+| Name                                                        | SPDX Page | OSI page | FSF/GNU page | Wikipedia |
+|-------------------------------------------------------------|:---------:|:--------:|:------------:|:---------:|
 | MakeIndex License                                           | [SPDX](https://spdx.org/licenses/MakeIndex.html) | | | |
 | Matrix Template Library License                             | [SPDX](https://spdx.org/licenses/MTLL.html) | | | |
 | Microsoft Public License                                    | [SPDX](https://spdx.org/licenses/MS-PL.html) | [OSI](https://opensource.org/licenses/MS-PL) | | |
@@ -212,6 +267,11 @@ The original sources of data for this page were the [SPDX License List](https://
 | mpich2 License                                              | [SPDX](https://spdx.org/licenses/mpich2.html) | | | |
 | Multics License                                             | [SPDX](https://spdx.org/licenses/Multics.html) | [OSI](https://opensource.org/licenses/Multics) | | |
 | Mup License                                                 | [SPDX](https://spdx.org/licenses/Mup.html) | | | |
+
+#### N
+
+| Name                                                        | SPDX Page | OSI page | FSF/GNU page | ikipedia |
+|-------------------------------------------------------------|:---------:|:--------:|:------------:|:---------:|
 | NASA Open Source Agreement 1.3                              | [SPDX](https://spdx.org/licenses/NASA-1.3.html) | [OSI](https://opensource.org/licenses/NASA-1.3) | | |
 | Naumen Public License                                       | [SPDX](https://spdx.org/licenses/Naumen.html) | [OSI](https://opensource.org/licenses/Naumen) | | |
 | Net Boolean Public License v1                               | [SPDX](https://spdx.org/licenses/NBPL-1.0.html) | | | |
@@ -228,6 +288,11 @@ The original sources of data for this page were the [SPDX License List](https://
 | NRL License                                                 | [SPDX](https://spdx.org/licenses/NRL.html) | | | |
 | NTP License                                                 | [SPDX](https://spdx.org/licenses/NTP.html) | [OSI](https://opensource.org/licenses/NTP) | | |
 | Nunit License                                               | [SPDX](https://spdx.org/licenses/Nunit.html) | | | |
+
+#### O
+
+| Name                                                        | SPDX Page | OSI page | FSF/GNU page | Wikipedia |
+|-------------------------------------------------------------|:---------:|:--------:|:------------:|:---------:|
 | OCLC Research Public License 2.0                            | [SPDX](https://spdx.org/licenses/OCLC-2.0.html) | [OSI](https://opensource.org/licenses/OCLC-2.0) | | |
 | ODC Open Database License v1.0                              | [SPDX](https://spdx.org/licenses/ODbL-1.0.html) | | | |
 | ODC Public Domain Dedication & License 1.0                  | [SPDX](https://spdx.org/licenses/PDDL-1.0.html) | | | |
@@ -258,6 +323,11 @@ The original sources of data for this page were the [SPDX License List](https://
 | Open Software License 3.0                                   | [SPDX](https://spdx.org/licenses/OSL-3.0.html) | [OSI](https://opensource.org/licenses/OSL-3.0) | | |
 | OpenSSL License                                             | [SPDX](https://spdx.org/licenses/OpenSSL.html) | | | |
 | OSET Public License version 2.1                             | | [OSI](https://opensource.org/licenses/OPL-2.1) | | |
+
+#### P
+
+| Name                                                        | SPDX Page | OSI page | FSF/GNU page | Wikipedia |
+|-------------------------------------------------------------|:---------:|:--------:|:------------:|:---------:|
 | PHP License v3.0                                            | [SPDX](https://spdx.org/licenses/PHP-3.0.html) | [OSI](https://opensource.org/licenses/PHP-3.0) | | |
 | PHP License v3.01                                           | [SPDX](https://spdx.org/licenses/PHP-3.01.html) | | | |
 | Plexus Classworlds License                                  | [SPDX](https://spdx.org/licenses/Plexus.html) | | | |
@@ -265,8 +335,18 @@ The original sources of data for this page were the [SPDX License List](https://
 | psfrag License                                              | [SPDX](https://spdx.org/licenses/psfrag.html) | | | |
 | psutils License                                             | [SPDX](https://spdx.org/licenses/psutils.html) | | | |
 | Python License 2.0                                          | [SPDX](https://spdx.org/licenses/Python-2.0.html) | [OSI](https://opensource.org/licenses/Python-2.0) | | |
+
+#### Q
+
+| Name                                                        | SPDX Page | OSI page | FSF/GNU page | Wikipedia |
+|-------------------------------------------------------------|:---------:|:--------:|:------------:|:---------:|
 | Q Public License 1.0                                        | [SPDX](https://spdx.org/licenses/QPL-1.0.html) |[OSI](https://opensource.org/licenses/QPL-1.0) | | |
 | Qhull License                                               | [SPDX](https://spdx.org/licenses/Qhull.html) | | | |
+
+#### R
+
+| Name                                                        | SPDX Page | OSI page | FSF/GNU page | Wikipedia |
+|-------------------------------------------------------------|:---------:|:--------:|:------------:|:---------:|
 | Rdisc License                                               | [SPDX](https://spdx.org/licenses/Rdisc.html) | | | |
 | RealNetworks Public Source License v1.0                     | [SPDX](https://spdx.org/licenses/RPSL-1.0.html) | [OSI](https://opensource.org/licenses/RPSL-1.0) | | |
 | Reciprocal Public License 1.1                               | [SPDX](https://spdx.org/licenses/RPL-1.1.html) | | | |
@@ -275,6 +355,11 @@ The original sources of data for this page were the [SPDX License List](https://
 | Ricoh Source Code Public License                            | [SPDX](https://spdx.org/licenses/RSCPL.html) | [OSI](https://opensource.org/licenses/RSCPL) | | |
 | RSA Message-Digest License                                  | [SPDX](https://spdx.org/licenses/RSA-MD.html) | | | |
 | Ruby License                                                | [SPDX](https://spdx.org/licenses/Ruby.html) | | | |
+
+#### S
+
+| Name                                                        | SPDX Page | OSI page | FSF/GNU page | Wikipedia |
+|-------------------------------------------------------------|:---------:|:--------:|:------------:|:---------:|
 | Sax Public Domain Notice                                    | [SPDX](https://spdx.org/licenses/SAX-PD.html) | | | |
 | Saxpath License                                             | [SPDX](https://spdx.org/licenses/Saxpath.html) | | | |
 | SCEA Shared Source License                                  | [SPDX](https://spdx.org/licenses/SCEA.html) | | | |
@@ -297,21 +382,46 @@ The original sources of data for this page were the [SPDX License List](https://
 | Sun Industry Standards Source License v1.2                  | [SPDX](https://spdx.org/licenses/SISSL-1.2.html) | | | |
 | Sun Public License v1.0                                     | [SPDX](https://spdx.org/licenses/SPL-1.0.html) | [OSI](https://opensource.org/licenses/SPL-1.0) | | |
 | Sybase Open Watcom Public License 1.0                       | [SPDX](https://spdx.org/licenses/Watcom-1.0.html) | [OSI](https://opensource.org/licenses/Watcom-1.0) | | |
+
+#### T
+
+| Name                                                        | SPDX Page | OSI page | FSF/GNU page | Wikipedia |
+|-------------------------------------------------------------|:---------:|:--------:|:------------:|:---------:|
 | TCL/TK License                                              | [SPDX](https://spdx.org/licenses/TCL.html) | | | |
 | The Unlicense                                               | [SPDX](https://spdx.org/licenses/Unlicense.html) | | | |
 | TMate Open Source License                                   | [SPDX](https://spdx.org/licenses/TMate.html) | | | |
 | TORQUE v2.5+ Software License v1.1                          | [SPDX](https://spdx.org/licenses/TORQUE-1.1.html) | | | |
 | Trusster Open Source License                                | [SPDX](https://spdx.org/licenses/TOSL.html) | | | |
+
+#### U
+
+| Name                                                        | SPDX Page | OSI page | FSF/GNU page | Wikipedia |
+|-------------------------------------------------------------|:---------:|:--------:|:------------:|:---------:|
 | Unicode Terms of Use                                        | [SPDX](https://spdx.org/licenses/Unicode-TOU.html) | | | |
 | Universal Permissive License v1.0                           | [SPDX](https://spdx.org/licenses/UPL-1.0.html) | [OSI](https://opensource.org/licenses/UPL) | | |
 | University of Illinois/NCSA Open Source License             | [SPDX](https://spdx.org/licenses/NCSA.html) | [OSI](https://opensource.org/licenses/NCSA) | | |
+
+#### V
+
+| Name                                                        | SPDX Page | OSI page | FSF/GNU page | Wikipedia |
+|-------------------------------------------------------------|:---------:|:--------:|:------------:|:---------:|
 | Vim License                                                 | [SPDX](https://spdx.org/licenses/Vim.html) | | | |
 | VOSTROM Public License for Open Source                      | [SPDX](https://spdx.org/licenses/VOSTROM.html) | | | |
 | Vovida Software License v1.0                                | [SPDX](https://spdx.org/licenses/VSL-1.0.html) | [OSI](https://opensource.org/licenses/VSL-1.0) | | |
+
+#### W
+
+| Name                                                        | SPDX Page | OSI page | FSF/GNU page | Wikipedia |
+|-------------------------------------------------------------|:---------:|:--------:|:------------:|:---------:|
 | W3C Software Notice and License (1998-07-20)                | [SPDX](https://spdx.org/licenses/W3C-19980720.html) | | | |
 | W3C Software Notice and License (2002-12-31)                | [SPDX](https://spdx.org/licenses/W3C.html) | [OSI](https://opensource.org/licenses/W3C) | | |
 | Wsuipa License                                              | [SPDX](https://spdx.org/licenses/Wsuipa.html) | | | |
 | wxWindows Library Licence                                   | | [OSI](https://opensource.org/licenses/WXwindows) | | |
+
+#### X
+
+| Name                                                        | SPDX Page | OSI page | FSF/GNU page | Wikipedia |
+|-------------------------------------------------------------|:---------:|:--------:|:------------:|:---------:|
 | X.Net License                                               | [SPDX](https://spdx.org/licenses/Xnet.html) | [OSI](https://opensource.org/licenses/Xnet) | | |
 | X11 License                                                 | [SPDX](https://spdx.org/licenses/X11.html) | | | |
 | Xerox License                                               | [SPDX](https://spdx.org/licenses/Xerox.html) | | | |
@@ -319,8 +429,18 @@ The original sources of data for this page were the [SPDX License List](https://
 | xinetd License                                              | [SPDX](https://spdx.org/licenses/xinetd.html) | | | |
 | XPP License                                                 | [SPDX](https://spdx.org/licenses/xpp.html) | | | |
 | XSkat License                                               | [SPDX](https://spdx.org/licenses/XSkat.html) | | | |
+
+#### Y
+
+| Name                                                        | SPDX Page | OSI page | FSF/GNU page | Wikipedia |
+|-------------------------------------------------------------|:---------:|:--------:|:------------:|:---------:|
 | Yahoo! Public License v1.0                                  | [SPDX](https://spdx.org/licenses/YPL-1.0.html) | | | |
 | Yahoo! Public License v1.1                                  | [SPDX](https://spdx.org/licenses/YPL-1.1.html) | | | |
+
+#### Z
+
+| Name                                                        | SPDX Page | OSI page | FSF/GNU page | Wikipedia |
+|-------------------------------------------------------------|:---------:|:--------:|:------------:|:---------:|
 | Zed License                                                 | [SPDX](https://spdx.org/licenses/Zed.html) | | | |
 | Zend License v2.0                                           | [SPDX](https://spdx.org/licenses/Zend-2.0.html) | | | |
 | Zimbra Public License v1.3                                  | [SPDX](https://spdx.org/licenses/Zimbra-1.3.html) | | | |
