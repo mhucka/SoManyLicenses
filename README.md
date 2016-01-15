@@ -19,11 +19,11 @@ The original sources of data for this page were the [SPDX License List](https://
 |-------------------------------------------------------------|:---------:|:--------:|:------------:|:---------:|
 | 3dfx Glide License                                          | [SPDX](https://spdx.org/licenses/Glide.html) | | | |
 | Abstyles License                                            | [SPDX](https://spdx.org/licenses/Abstyles.html) | | | |
-| Academic Free License v1.1                                  | [SPDX](https://spdx.org/licenses/AFL-1.1.html) | | | |
-| Academic Free License v1.2                                  | [SPDX](https://spdx.org/licenses/AFL-1.2.html) | | | |
-| Academic Free License v2.0                                  | [SPDX](https://spdx.org/licenses/AFL-2.0.html) | | | |
-| Academic Free License v2.1                                  | [SPDX](https://spdx.org/licenses/AFL-2.1.html) | | | |
-| Academic Free License v3.0                                  | [SPDX](https://spdx.org/licenses/AFL-3.0.html) | | | |
+| Academic Free License v1.1                                  | [SPDX](https://spdx.org/licenses/AFL-1.1.html) | | | [Wikipedia](https://en.wikipedia.org/wiki/Academic_Free_License) |
+| Academic Free License v1.2                                  | [SPDX](https://spdx.org/licenses/AFL-1.2.html) | | | [Wikipedia](https://en.wikipedia.org/wiki/Academic_Free_License) |
+| Academic Free License v2.0                                  | [SPDX](https://spdx.org/licenses/AFL-2.0.html) | | | [Wikipedia](https://en.wikipedia.org/wiki/Academic_Free_License) |
+| Academic Free License v2.1                                  | [SPDX](https://spdx.org/licenses/AFL-2.1.html) | | | [Wikipedia](https://en.wikipedia.org/wiki/Academic_Free_License) |
+| Academic Free License v3.0                                  | [SPDX](https://spdx.org/licenses/AFL-3.0.html) | [OSI](https://opensource.org/licenses/AFL-3.0) | | |
 | Academy of Motion Picture Arts and Sciences BSD             | [SPDX](https://spdx.org/licenses/AMPAS.html) | | | |
 | Adaptive Public License 1.0                                 | [SPDX](https://spdx.org/licenses/APL-1.0.html) | | | |
 | Adobe Glyph List License                                    | [SPDX](https://spdx.org/licenses/Adobe-Glyph.html) | | | |
@@ -35,9 +35,9 @@ The original sources of data for this page were the [SPDX License List](https://
 | Amazon Digital Services License                             | [SPDX](https://spdx.org/licenses/ADSL.html) | | | |
 | AMD's plpa_map.c License                                    | [SPDX](https://spdx.org/licenses/AMDPLPA.html) | | | |
 | ANTLR Software Rights Notice                                | [SPDX](https://spdx.org/licenses/ANTLR-PD.html) | | | |
-| Apache License 1.0                                          | [SPDX](https://spdx.org/licenses/Apache-1.0.html) | | | |
-| Apache License 1.1                                          | [SPDX](https://spdx.org/licenses/Apache-1.1.html) | | | |
-| Apache License 2.0                                          | [SPDX](https://spdx.org/licenses/Apache-2.0.html) | | | |
+| Apache License 1.0                                          | [SPDX](https://spdx.org/licenses/Apache-1.0.html) | | | [Wikipedia](https://en.wikipedia.org/wiki/Apache_License) |
+| Apache License 1.1                                          | [SPDX](https://spdx.org/licenses/Apache-1.1.html) | | | [Wikipedia](https://en.wikipedia.org/wiki/Apache_License) |
+| Apache License 2.0                                          | [SPDX](https://spdx.org/licenses/Apache-2.0.html) | [OSI](https://opensource.org/licenses/Apache-2.0) | [FSF](http://directory.fsf.org/wiki/License:Apache2.0) | [Wikipedia](https://en.wikipedia.org/wiki/Apache_License) |
 | Apple MIT License                                           | [SPDX](https://spdx.org/licenses/AML.html) | | | |
 | Apple Public Source License 1.0                             | [SPDX](https://spdx.org/licenses/APSL-1.0.html) | | | |
 | Apple Public Source License 1.1                             | [SPDX](https://spdx.org/licenses/APSL-1.1.html) | | | |
