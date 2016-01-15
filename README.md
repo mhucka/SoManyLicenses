@@ -46,7 +46,7 @@ The original sources of data for this page were the [SPDX License List](https://
 | Artistic License 1.0                                        | [SPDX](https://spdx.org/licenses/Artistic-1.0.html) | | | |
 | Artistic License 1.0 (Perl)                                 | [SPDX](https://spdx.org/licenses/Artistic-1.0-Perl.html) | | | |
 | Artistic License 1.0 w/clause 8                             | [SPDX](https://spdx.org/licenses/Artistic-1.0-cl8.html) | | | |
-| Artistic License 2.0                                        | [SPDX](https://spdx.org/licenses/Artistic-2.0.html) | [OSI](https://opensource.org/licenses/Artistic-2.0) | | |
+| Artistic License 2.0                                        | [SPDX](https://spdx.org/licenses/Artistic-2.0.html) | [OSI](https://opensource.org/licenses/Artistic-2.0) | [FSF](http://directory.fsf.org/wiki/License:ArtisticLicense2.0) | |
 | Attribution Assurance License                               | [SPDX](https://spdx.org/licenses/AAL.html) | [OSI](https://opensource.org/licenses/AAL) | | |
 
 #### B
