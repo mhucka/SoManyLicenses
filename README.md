@@ -84,7 +84,7 @@ The original sources of data for this page were the [SPDX License List](https://
 | CeCILL Free Software License Agreement v2.1                 | [SPDX](https://spdx.org/licenses/CECILL-2.1.html) | [OSI](https://opensource.org/licenses/CECILL-2.1) | | |
 | CeCILL-B Free Software License Agreement                    | [SPDX](https://spdx.org/licenses/CECILL-B.html) | | | |
 | CeCILL-C Free Software License Agreement                    | [SPDX](https://spdx.org/licenses/CECILL-C.html) | | | |
-| Clarified Artistic License                                  | [SPDX](https://spdx.org/licenses/ClArtistic.html) | | | |
+| Clarified Artistic License                                  | [SPDX](https://spdx.org/licenses/ClArtistic.html) | | | [Wikipedia](https://en.wikipedia.org/wiki/Artistic_License) |
 | CMU License                                                 | [SPDX](https://spdx.org/licenses/MIT-CMU.html) | | | |
 | CNRI Jython License                                         | [SPDX](https://spdx.org/licenses/CNRI-Jython.html) | | | |
 | CNRI Python License                                         | [SPDX](https://spdx.org/licenses/CNRI-Python.html) | [OSI](https://opensource.org/licenses/CNRI-Python) | | |
