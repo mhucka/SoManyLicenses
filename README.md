@@ -270,7 +270,7 @@ The original sources of data for this page were the [SPDX License List](https://
 
 #### N
 
-| Name                                                        | SPDX Page | OSI page | FSF page | ikipedia |
+| Name                                                        | SPDX Page | OSI page | FSF page | Wikipedia |
 |-------------------------------------------------------------|:---------:|:--------:|:------------:|:---------:|
 | NASA Open Source Agreement 1.3                              | [SPDX](https://spdx.org/licenses/NASA-1.3.html) | [OSI](https://opensource.org/licenses/NASA-1.3) | | |
 | Naumen Public License                                       | [SPDX](https://spdx.org/licenses/Naumen.html) | [OSI](https://opensource.org/licenses/Naumen) | | |
