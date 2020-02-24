@@ -312,7 +312,7 @@ The original sources of data for this page were the [SPDX License List](https://
 | Open LDAP Public License v2.4                               | [SPDX](https://spdx.org/licenses/OLDAP-2.4.html) | | | |
 | Open LDAP Public License v2.5                               | [SPDX](https://spdx.org/licenses/OLDAP-2.5.html) | | | |
 | Open LDAP Public License v2.6                               | [SPDX](https://spdx.org/licenses/OLDAP-2.6.html) | | | |
-| Open LDAP Public License v2.7                               | [SPDX](https://spdx.org/licenses/OLDAP-2.7.html) | | | |
+| Open LDAP Public License v2.7                               | [SPDX](https://spdx.org/licenses/OLDAP-2.7.html) | |[FSF](https://directory.fsf.org/wiki/License:OLDAP-2.7) | |
 | Open LDAP Public License v2.8                               | [SPDX](https://spdx.org/licenses/OLDAP-2.8.html) | | | |
 | Open Market License                                         | [SPDX](https://spdx.org/licenses/OML.html) | | | |
 | Open Public License v1.0                                    | [SPDX](https://spdx.org/licenses/OPL-1.0.html) | | | |
