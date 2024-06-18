@@ -95,6 +95,9 @@ The original sources of data for this page were the [SPDX License List](https://
 | Common Public Attribution License 1.0                       | [SPDX](https://spdx.org/licenses/CPAL-1.0.html) | [OSI](https://opensource.org/licenses/CPAL-1.0) | | |
 | Common Public License 1.0                                   | [SPDX](https://spdx.org/licenses/CPL-1.0.html) | | | |
 | Computer Associates Trusted Open Source License 1.1         | [SPDX](https://spdx.org/licenses/CATOSL-1.1.html) | [OSI](https://opensource.org/licenses/CATOSL-1.1) | | |
+| Comprehensible Open License 1.0                             | | | | |
+| Comprehensible Open License 2.0                             | | | | |
+| Comprehensible Open License 3.0                             | | | | |
 | Condor Public License v1.1                                  | [SPDX](https://spdx.org/licenses/Condor-1.1.html) | | | |
 | Creative Commons Attribution 1.0                            | [SPDX](https://spdx.org/licenses/CC-BY-1.0.html) | | | |
 | Creative Commons Attribution 2.0                            | [SPDX](https://spdx.org/licenses/CC-BY-2.0.html) | | | |
@@ -353,6 +356,19 @@ The original sources of data for this page were the [SPDX License List](https://
 | Reciprocal Public License 1.5                               | [SPDX](https://spdx.org/licenses/RPL-1.5.html) | [OSI](https://opensource.org/licenses/RPL-1.5) | | |
 | Red Hat eCos Public License v1.1                            | [SPDX](https://spdx.org/licenses/RHeCos-1.1.html) | | | |
 | Ricoh Source Code Public License                            | [SPDX](https://spdx.org/licenses/RSCPL.html) | [OSI](https://opensource.org/licenses/RSCPL) | | |
+| Ritchey Permissive License v16                              | | | | |
+| Ritchey Permissive License v15                              | | | | |
+| Ritchey Permissive License v14                              | | | | |
+| Ritchey Permissive License v13                              | | | | |
+| Ritchey Permissive License v12                              | | | | |
+| Ritchey Permissive License v11                              | | | | |
+| Ritchey Permissive License v10                              | | | | |
+| Ritchey Permissive License v9                               | | | | |
+| Ritchey Permissive License v8                               | | | | |
+| Ritchey Permissive License v7                               | | | | |
+| Ritchey Permissive License v6                               | | | | |
+| Ritchey Permissive License v5                               | | | | |
+| Ritchey Permissive License v4                               | | | | |
 | RSA Message-Digest License                                  | [SPDX](https://spdx.org/licenses/RSA-MD.html) | | | |
 | Ruby License                                                | [SPDX](https://spdx.org/licenses/Ruby.html) | | | |
 
